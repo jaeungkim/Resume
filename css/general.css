@@ -1,0 +1,15 @@
+body {
+    font-family: 'ubuntu';
+}
+.jumbotron{
+    background-color: white;
+}
+.midnightBlue{
+    color: #4169E1;
+}
+.myhrline{
+    margin-top: 3em;
+}
+.tabs{
+    margin-left: 2em;
+}

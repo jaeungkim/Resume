@@ -1,0 +1,97 @@
+{
+    "personalInfo": {
+        "firstName": "Jae Ung",
+        "lastName": "Kim",
+        "home": "British Columbia, Canada",
+        "phone_number": "7785813502",
+        "email": "khyy37@hotmail.com",
+        "linkedIn": "Linkedin.com/in/jaeungkim0526",
+        "personal_web": "Jaeungkim.com"
+    },
+    "techSkills": {
+        "frontEnd": [
+            "HTML5",
+            "CSS/SASS",
+            "JavaScript",
+            "TypeScript",
+            "JQuery",
+            "React",
+            "WordPress"
+        ],
+        "backEnd": [
+            "Node.js",
+            "PHP(Laravel)"
+        ],
+        "databases": [
+            "MySQL"
+        ],
+        "design": [
+            "Adobe Photoshop"
+        ],
+        "projectManagement": [
+            "Trello"
+        ],
+        "otherLanguages": [
+            "Java",
+            "C",
+            "C++"
+        ]
+    },
+    "education": {
+        "university": "University of British Columbia - Okanagan Campus",
+        "degree": "B.Sc. In Computer Science",
+        "city": "Kelowna, BC",
+        "startDate": "Sept 2013",
+        "endDate": "April 2020",
+        "courses": [
+            "Software Engineering",
+            "Data Structures",
+            "Analysis of Algorithms",
+            "Introduction to Databases",
+            "Introduction to Networks",
+            "Operating Systems",
+            "Machine Architecture",
+            "Web Programming",
+            "Human Computer Interaction"
+        ]
+    },
+    "experience": [
+        {
+            "workName": "UBCO Capstone Project - Lental Inc.",
+            "position": "Developer / Technical Liaison",
+            "city": "Kelowna, BC",
+            "startDate": "May 2019",
+            "endDate": "August 2019",
+            "description": [
+                "Developed a website allowing customers to search local rental listings.",
+                "Designed Front-End with Bootstrap, and Back-End with Laravel."
+            ]
+        },
+        {
+            "workName": "GlaxoSmithKline",
+            "position": "Administrative Support (Commercial Excellence)",
+            "city": "Seoul, Korea",
+            "startDate": "May 2018",
+            "endDate": "August 2018",
+            "description": [
+                "Educating Medical Reprensentatives <br> - Created quizzes, missions, and courses with 'MindTickle'.",
+                "Communicating with global partners on behalf of first line service leaders <br> - Translated business documents for employees in Korea <br> - Participated in group skype calls to discuss future enhancements.",
+                "Organizing Excel documents for FLSLs and SLSLs <br> - Used knowledge with VBA, pivot tables, and functions to organize data."
+            ]
+        },
+        {
+            "workName": "AirBnB",
+            "position": "Customer Support (Trust & Safety Team)",
+            "city": "Seoul, Korea",
+            "startDate": "March 2017",
+            "endDate": "August 2017",
+            "description": [
+                "Scam Prevention - using image reverse search, identified false listings in AirBnB platform",
+                "Account protection - alerted users to keep up to date with account protections",
+                "Secure Payments - guided customers in making secure payments, communicating through emails",
+                "Watchlist & Background checks - searched and eliminated malicious users",
+                "preparedness - always stayed alert for users to have best experiences with AirBnB"
+            ]
+        }
+    ]
+}
