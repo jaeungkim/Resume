@@ -1,2 +1,3 @@
-# Resume with JSON
- created resume with JSON objects
+# Resume with JSON Objects
+ Converted my PDF resume to JSON Resume with objects for future modifications.
+ 
